@@ -1,0 +1,12 @@
+{
+  "name": "image-render",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./index.js"
+  },
+  "dependencies": {
+    "sharp": "^0.29.0"
+  }
+}
